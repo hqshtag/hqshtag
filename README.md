@@ -26,6 +26,7 @@ style="margin-right: 120px; margin-left: 120px; font-size: 18px">I'm passionate 
 <br />
 You can find me on
 <br />
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wajih/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajih.tagourty@gmail.com)
