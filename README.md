@@ -1,32 +1,49 @@
-<h1 align="left"> ☄️☄️🌠☄️🌠☄️☄️🌠🌠 </h1>
-<h2>Hey There! do you want to know more about me ?</h2>
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="./imgs/header.png" >
+ 
 </div>
+<h2 align="center"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h2>
+<h2 align="center">Hey There! do you want to know more about me ?</h2>
+<div align="center">
 <h3> I'm an Analyst  Programmer  🦾🦾 
 🧿</h3>
-<h4 align="left">I'm passionate about software developement and I'm looking to improve all industries in my country 🇹🇳 through IT</h4>
-<br />
-💻 I'm currently working as a Freelancer on Upwork.
+<h3 align="center" 
+style='margin-right: 120px; margin-left: 120px'>I'm passionate about software developement and I'm aiming to improve all industries in my country 🇹🇳 through IT</h3>
 
 <br />
-Find me:
+
+<div align="left" style="margin-left: 120px; margin-right: 120px">
+
+    💻 I'm currently working as a Freelancer on Upwork.
+
+    👯 I’m looking to collaborate on Proyectos.
+
+    💬 Ask me about Javascript/Typescript, React and NodeJs.
+
+    🌱 I’m learning docker and kubernetes.
+
+</div>
+<br />
+You can find me on
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wajih/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajih.tagourty@gmail.com)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016084b5f594c92d1f)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hqshtag)
-
-<br />
+<br /><br />
 
 ## Technologies and tools 🧰
 
-<div>
+<br />
+<div style="
+     margin-left: 150px;
+     margin-right: 150px;
+">
 
 <b>Expertise</b>
 <br />
+
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -38,12 +55,15 @@ Find me:
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <br />
+<br />
 <b>Confident</b>
 <br />
+
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<br />
 <br />
 <b>Databases</b>
 <br/>
@@ -52,7 +72,8 @@ Find me:
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<br /><br />
+<br />
+<br />
 <b>Devops, Cloud Services and others</b>
 <br />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -60,11 +81,21 @@ Find me:
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<br />
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=hqshtag&theme=white-green" />
+## Statistics
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=hqshtag&theme=white-green" /> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hqshtag&theme=tokyonight" alt="hqshtag" width="800" />
+
+<br/>
+
+[![Mohamed wajih's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hqshtag&theme=react-dark)](https://git.io/praveenscience)
 
 Started my daily <b>commit</b>ment on the 4th of March 2022.
 
+</div>
 </div>
 <br />
 <br />
