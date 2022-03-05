@@ -2,13 +2,13 @@
 <img src="./imgs/header.png" >
  
 </div>
-<h2 align="center"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h2>
-<h2 align="center">Hey There! do you want to know more about me ?</h2>
+<h3 align="center" style="font-size: 28px"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h3>
+<h3 align="center" style="font-size: 24px">Hey There! do you want to know more about me ?</h3>
 <div align="center">
-<h3> I'm an Analyst  Programmer  🦾🦾 
+<h3  style="font-size: 20px"> I'm an Analyst  Programmer  🦾🦾 
 🧿</h3>
 <h3 align="center" 
-style='margin-right: 120px; margin-left: 120px'>I'm passionate about software developement and I'm aiming to improve all industries in my country 🇹🇳 through IT</h3>
+style="margin-right: 120px; margin-left: 120px; font-size: 18px">I'm passionate about software developement and I'm aiming to improve all industries in my country 🇹🇳 through IT</h3>
 
 <br />
 
@@ -87,9 +87,11 @@ You can find me on
 ## Statistics
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=hqshtag&theme=white-green" /> -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hqshtag&theme=tokyonight" alt="hqshtag" width="800" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hqshtag&theme=tokyonight" alt="hqshtag" width="600" />
 
 <br/>
+<br />
+<br />
 
 [![Mohamed wajih's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hqshtag&theme=react-dark)](https://git.io/praveenscience)
 
@@ -97,8 +99,6 @@ Started my daily <b>commit</b>ment on the 4th of March 2022.
 
 </div>
 </div>
-<br />
-<br />
 
 <!--
 **hqshtag/hqshtag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
