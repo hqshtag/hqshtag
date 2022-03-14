@@ -96,7 +96,7 @@ You can find me on
 
 [![Mohamed wajih's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hqshtag&theme=react-dark)](https://git.io/praveenscience)
 
-Started my daily <b>commit</b>ment on the 4th of March 2022.
+Started my daily <b>commit</b>ment on the 14th of March 2022.
 
 </div>
 </div>
