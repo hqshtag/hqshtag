@@ -3,7 +3,8 @@
  
 </div>
 <h3 align="center" style="font-size: 28px"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h3>
-<h3 align="center" style="font-size: 24px">Hey There! do you want to know more about me ?</h3>
+<h3 align="center" style="font-size: 24px">Heyooo! I just deployed my portfolio on [github](https://hqshtag.github.io/portfolio/)</h3>
+<h3 align="center" style="font-size: 24px">Do you want to know more about me ? Check me out!</h3>
 <div align="center">
 <h3  style="font-size: 20px"> I'm an Analyst  Programmer  🦾🦾 
 🧿</h3>
