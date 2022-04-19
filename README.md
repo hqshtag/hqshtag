@@ -3,17 +3,23 @@
  
 </div>
 <h3 align="center" style="font-size: 28px"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h3>
-<h3 align="center" style="font-size: 24px">Heyooo! I just deployed my portfolio on [github](https://hqshtag.github.io/portfolio/)</h3>
-<h3 align="center" style="font-size: 24px">Do you want to know more about me ? Check me out!</h3>
+<h3 align="center" style="font-size: 24px">Heyooo! I just deployed my </h3>
+
+<h3 align="center" style="font-size: 22px">
+
+[my github page](https://hqshtag.github.io/portfolio/)
+
+</h3>
+
+<h3 align="center" style="font-size: 24px">Check me out!</h3>
 <div align="center">
-<h3  style="font-size: 20px"> I'm an Analyst  Programmer  🦾🦾 
-🧿</h3>
+<h3  style="font-size: 28px"> I'm an Analyst  Programmer  </h3>
 <h3 align="center" 
-style="margin-right: 120px; margin-left: 120px; font-size: 18px">I'm passionate about software developement and I'm aiming to improve all industries in my country 🇹🇳 through IT</h3>
+style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate about software developement and I'm aiming to improve all industries in my country 🇹🇳 through IT</h3>
 
 <br />
 
-<div align="left" style="margin-left: 120px; margin-right: 120px">
+<div align="left" style="margin-left: 120px; margin-right: 120px; font-size: 16px">
 
     💻 I'm currently working as a Freelancer on Upwork.
 
@@ -41,6 +47,7 @@ You can find me on
 <div style="
      margin-left: 150px;
      margin-right: 150px;
+     font-size: 20px;
 ">
 
 <b>Expertise</b>
