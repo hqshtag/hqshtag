@@ -27,7 +27,6 @@ style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate 
 
     💬 Ask me about Javascript/Typescript, React and NodeJs.
 
-    🌱 I’m learning docker and kubernetes.
 
 </div>
 <br />
