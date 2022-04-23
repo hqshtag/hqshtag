@@ -7,7 +7,7 @@
 
 <h3 align="center" style="font-size: 22px">
 
-[my github page](https://hqshtag.github.io/portfolio/)
+[portfolio page](https://hqshtag.github.io/portfolio/)
 
 </h3>
 
