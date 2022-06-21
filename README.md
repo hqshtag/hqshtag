@@ -7,7 +7,6 @@
 <h3  style="font-size: 28px"> I'm an Analyst  Programmer  </h3>
 <h3 align="center" 
 style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate about software developement and I'm aiming to improve all industries in my country 🇹🇳 through IT</h3>
-
 <br />
 
 <div align="left" style="margin-left: 120px; margin-right: 120px; font-size: 16px">
