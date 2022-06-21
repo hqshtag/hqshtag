@@ -3,15 +3,6 @@
  
 </div>
 <h3 align="center" style="font-size: 28px"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h3>
-<h3 align="center" style="font-size: 24px">Heyooo! I just deployed my </h3>
-
-<h3 align="center" style="font-size: 22px">
-
-[portfolio page](https://hqshtag.github.io/portfolio/)
-
-</h3>
-
-<h3 align="center" style="font-size: 24px">Check me out!</h3>
 <div align="center">
 <h3  style="font-size: 28px"> I'm an Analyst  Programmer  </h3>
 <h3 align="center" 
@@ -29,15 +20,27 @@ style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate 
 
 
 </div>
+
+<h3 align="center" style="font-size: 24px; color: #CCC; font-weight: 700">I just deployed my </h3>
+
+<h3 align="center" style="font-size: 24px; font-weight: 700;letter-spacing: 3px;  margin-bottom: -10px">
+
+[Portfolio](https://hqshtag.github.io/portfolio/)
+
+</h3>
+<h3 align="center" style="font-size: 20px; color: #CCC">Check it out!</h3>
+
+
 <br />
-You can find me on
+
+<h4 align="center" style="font-size: 18px; color: #CCC; margin-bottom: -20px">You can also find me on</h4>
 <br />
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wajih/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajih.tagourty@gmail.com)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016084b5f594c92d1f)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hqshtag)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajih.tagourty@gmail.com)
 <br /><br />
 
 ## Technologies and tools 🧰
