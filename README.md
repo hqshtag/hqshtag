@@ -20,14 +20,7 @@ style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate 
 
 </div>
 
-<h3 align="center" style="font-size: 24px; color: #CCC; font-weight: 700">I just deployed my </h3>
 
-<h3 align="center" style="font-size: 24px; font-weight: 700;letter-spacing: 3px;  margin-bottom: -10px">
-
-[Portfolio](https://hqshtag.github.io/portfolio/)
-
-</h3>
-<h3 align="center" style="font-size: 20px; color: #CCC">Check it out!</h3>
 
 
 <br />
