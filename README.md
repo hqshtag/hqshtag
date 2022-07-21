@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <img src="./imgs/header.png" >
  
-</div>
+</div> -->
 <h3 align="center" style="font-size: 28px"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h3>
 <div align="center">
 <h3  style="font-size: 28px"> I'm an Analyst  Programmer  </h3>
