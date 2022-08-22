@@ -25,7 +25,7 @@ style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate 
 
 <br />
 
-<h4 align="center" style="font-size: 18px; color: #CCC; margin-bottom: -20px">You can also find me on</h4>
+<h4 align="center" style="font-size: 20px; color: #CCC; margin-bottom: -20px">You can reach me on</h4>
 <br />
 <br />
 
