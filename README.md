@@ -1,10 +1,9 @@
-<!-- <div id="header" align="center">
+<div id="header" align="center">
 <img src="./imgs/header.png" >
  
 </div>
 <h3 align="center" style="font-size: 28px"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h3>
 <div align="center">
-<h3  style="font-size: 28px"> I'm an Analyst  Programmer  </h3> -->
 <h3 align="center" 
 style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate about software development, Specialized in Web and Mobile development
 </h3>
