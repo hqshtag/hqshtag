@@ -17,7 +17,6 @@ style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate 
 </div>
 
 <div id="header" align="center">
-<img src="./imgs/header.png" >
  
 </div>
 <!-- <h3 align="center" style="font-size: 28px"> ☄️☄️☄️🌠☄️🌠☄️☄️🌠🌠☄️🌠☄️🌠☄️☄️🌠☄️🌠☄️☄️</h3> -->
