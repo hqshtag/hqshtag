@@ -1,17 +1,17 @@
 
 <div align="center">
 <h3 align="center" 
-style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate about software development, Specialized in Web and Mobile development
+style="margin-right: 120px; margin-left: 120px; font-size: 20px">Enthusiastic about software development with a specialization in both Web and Mobile domains.
 </h3>
 <br />
 
 <div align="left" style="margin-left: 120px; margin-right: 120px; font-size: 16px">
 
-    💻 I'm currently working as a Freelancer on Upwork.
+    💻 Currently freelancing on Upwork.
 
-    👯 I’m looking to collaborate on Proyectos.
+    👯 Open to collaboration on projects.
 
-    💬 Ask me about Javascript/Typescript, React and NodeJs.
+    💬 Feel free to reach out for discussions.
 
 
 </div>
@@ -24,7 +24,7 @@ style="margin-right: 120px; margin-left: 120px; font-size: 20px">I'm passionate 
 
 <br />
 
-<h4 align="center" style="font-size: 20px; color: #CCC; margin-bottom: -20px">You can reach me on</h4>
+<h4 align="center" style="font-size: 20px; color: #CCC; margin-bottom: -20px">You can contact me at</h4>
 <br />
 <br />
 
