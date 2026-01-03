@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi, I'm hqshtag 👋</h2>
+  <h2>Salam, I'm hqshtag 👋</h2>
   <h4>Software Solution Architect | Fullstack Developer | DevOps Consultant</h4>
   <p>Delivering high-quality web, mobile, and desktop solutions with a customer-first mindset.</p>
 </div>
