@@ -1,33 +1,34 @@
 <div align="center">
-  <h2>Salam, I'm hqshtag 👋</h2>
+  <h2>Salam, This is hqshtag 👋</h2>
   <h4>Software Solution Architect | Fullstack Developer | DevOps Consultant</h4>
   <p>Delivering high-quality web, mobile, and desktop solutions with a customer-first mindset.</p>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-I'm a passionate Fullstack Developer with 5+ years of hands-on experience delivering scalable, maintainable software across web, mobile, and desktop platforms.
+Passionate Fullstack Developer with 5+ years of hands-on experience delivering scalable, maintainable software across web, mobile, and desktop platforms.
 
-I specialize in:
-- 🎨 Designing intuitive UIs & crafting seamless UX
+Specialize in
 - 🔌 Building and integrating REST & GraphQL APIs
 - 📱 Developing responsive SPAs, PWAs, and mobile apps
-- ⚙️ Architecting modular tools and libraries
+- ⚙️ Architecting Systems, modular tools and libraries
 - 🧪 Optimizing performance and debugging complex issues
+- 🎨 Designing intuitive UIs & crafting seamless UX
 - 🧑‍🏫 Mentoring junior developers and leading small teams
 
-I'm currently freelancing on [Upwork](https://www.upwork.com/freelancers/~016084b5f594c92d1f) and open to new opportunities, partnerships, or collaborative builds.
+Crafting my own rocket while colobrating on multiple other projects, making my and others dreams into realities on the clock, 24/7 open to new opportunities, partnerships, or collaborative builds.
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wajih/)
+
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016084b5f594c92d1f)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hqshtag)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajih.tagourty@gmail.com)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hqshtag) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wajih/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedtagourty@gmail.com)
 
 ---
 
